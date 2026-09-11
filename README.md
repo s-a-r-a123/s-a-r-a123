@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**s-a-r-a123/s-a-r-a123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+🚀 Learning DSA, Java & Cybersecurity
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+- Cybersecurity
+- HTML / CSS / JavaScript
+
+## 📚 Currently Learning
+
+- Advanced DSA
+- Binary Search
+- System Design
+- Web Security
+
+## 🎯 Goals
+
+- Solve 300+ LeetCode problems
+- Build real-world projects
+- Contribute to open source
+- Land a software engineering internship
+
+## 📊 Coding Profiles
+
+- LeetCode
+- GitHub
+
+## 📫 Connect With Me
+
+Feel free to reach out and collaborate!
