@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/s-a-r-a123">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=66ff82&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Saranya%20(%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1)" alt="Hello! I&#39;m Saranya (✿◡‿◡)" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=CD55FF&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Saranya%20(%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1)" alt="Hello! I&#39;m Saranya ο(=•ω＜=)ρ⌒☆ " />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=430&height=44&lines=CC%20-%20Cloud%20%2B%20Cybersecurity;coffee%20and%20code%EF%BC%88*%EF%BC%BE-%EF%BC%BE*%EF%BC%89" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=55FFD2&center=true&vCenter=true&width=430&height=44&lines=CC%20-%20Cloud%20%2B%20Cybersecurity;coffee%20and%20code%EF%BC%88*%EF%BC%BE-%EF%BC%BE*%EF%BC%89" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
